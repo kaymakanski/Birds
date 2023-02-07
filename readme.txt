@@ -1,6 +1,3 @@
-Please answer the following question in a concise and short manner. The answer should not need more
-than 3 or 4 sentences.
-
 1) What is the difference between AAR and JAR?
 AAR stands for "Android Archive" and it is used to package Android Library modules.
 It contains the Android Library's code and resources, as well as metadata about the library such as its AndroidManifest file.
